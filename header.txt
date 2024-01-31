@@ -1,0 +1,22 @@
+header
+
+
+display flex
+nav      form
+
+
+main
+
+div flex
+   article        dimension 
+                 wrap 
+
+
+
+
+
+footer 
+
+div
+
+div div div 
