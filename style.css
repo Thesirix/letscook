@@ -133,8 +133,7 @@ body {
 
 
 .mw1320 {
-  max-width: 1320px;
- 
+ flex-basis: 1320px;
   
   margin: auto;
   display: flex;
@@ -155,7 +154,7 @@ body {
   font-size: 16px;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+
   text-decoration: none;
 }
 
@@ -309,7 +308,7 @@ li a {
 }
 
 .footer__section {
-  flex: 1 1 400px;
+  flex: 1 1 200px;
   padding: 16px;
 
 
@@ -327,6 +326,7 @@ li a {
   align-items: center;
   gap: 4px;
   justify-content: flex-end;
+  width: 100%;
  
 }
 
@@ -353,6 +353,7 @@ li a {
   height: 20px;
 
 }
+
 
 
 
