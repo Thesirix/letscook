@@ -1,4 +1,4 @@
-## HTML CSS TRAINING
+## HTML CSS
 
 Bienvenue sur mon site de cuisine ! Ce projet a été développé dans le cadre de ma formation en HTML et CSS pour améliorer mes compétences en développement web.
 
