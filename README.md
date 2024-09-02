@@ -4,7 +4,12 @@ Bienvenue sur mon site de cuisine ! Ce projet a été développé dans le cadre 
 
 ### Aperçu du Site
 
-Le site de cuisine est conçu pour fournir des recettes et des informations culinaires intéressantes. Il propose une interface utilisateur conviviale avec un design réactif pour s'adapter à différentes tailles d'écrans.
+Le site de cuisine est conçu pour fournir des recettes et des informations culinaires intéressantes. Il propose une interface utilisateur conviviale avec un design réactif pour s'adapter à différentes tailles d'écrans. Il y a également la présence d'un formulaire d'inscription.
+
+![Candle](./letscook1.png)
+![Candle](./letscook_form.png)
+
+
 
 ### Contenu du Projet
 
